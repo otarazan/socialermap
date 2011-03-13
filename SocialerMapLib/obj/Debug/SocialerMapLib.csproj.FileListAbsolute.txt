@@ -1,0 +1,15 @@
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\SocialerMapLib\bin\Debug\SocialerMapLib.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\SocialerMapLib\bin\Debug\SocialerMapLib.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\SocialerMapLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\SocialerMapLib\obj\Debug\SocialerMapLib.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\SocialerMapLib\obj\Debug\SocialerMapLib.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\SocialerMapLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\SocialerMapLib\bin\Debug\SocialerMapLib.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\SocialerMapLib\bin\Debug\SocialerMapLib.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\SocialerMapLib\obj\Debug\SocialerMapLib.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\SocialerMapLib\obj\Debug\SocialerMapLib.pdb
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\SocialerMapLib\bin\Debug\SocialerMapLib.dll
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\SocialerMapLib\bin\Debug\SocialerMapLib.pdb
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\SocialerMapLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\SocialerMapLib\obj\Debug\SocialerMapLib.dll
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\SocialerMapLib\obj\Debug\SocialerMapLib.pdb

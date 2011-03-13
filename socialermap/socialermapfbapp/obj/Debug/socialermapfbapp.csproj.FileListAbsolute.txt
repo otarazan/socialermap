@@ -1,0 +1,39 @@
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermapfbapp\socialermapfbapp\bin\socialermapfacebookapp.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermapfbapp\socialermapfbapp\bin\socialermapfacebookapp.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermapfbapp\socialermapfbapp\bin\Facebook.Web.xml
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermapfbapp\socialermapfbapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermapfbapp\socialermapfbapp\obj\Debug\socialermapfacebookapp.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermapfbapp\socialermapfbapp\obj\Debug\socialermapfacebookapp.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialermapfbapp\socialermapfbapp\bin\socialermapfacebookapp.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialermapfbapp\socialermapfbapp\bin\socialermapfacebookapp.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialermapfbapp\socialermapfbapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialermapfbapp\socialermapfbapp\obj\Debug\socialermapfacebookapp.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialermapfbapp\socialermapfbapp\obj\Debug\socialermapfacebookapp.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermapfbapp\socialermapfbapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermapfbapp\socialermapfbapp\bin\socialermapfacebookapp.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermapfbapp\socialermapfbapp\bin\socialermapfacebookapp.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermapfbapp\socialermapfbapp\bin\SocialerMapLib.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermapfbapp\socialermapfbapp\bin\SocialerMapLib.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermapfbapp\socialermapfbapp\obj\Debug\socialermapfacebookapp.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermapfbapp\socialermapfbapp\obj\Debug\socialermapfacebookapp.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermap\socialermapfbapp\bin\socialermapfacebookapp.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermap\socialermapfbapp\bin\socialermapfacebookapp.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermap\socialermapfbapp\bin\SocialerMapLib.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermap\socialermapfbapp\bin\SocialerMapLib.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermap\socialermapfbapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermap\socialermapfbapp\obj\Debug\socialermapfacebookapp.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialer\socialerMap\socialermap\socialermapfbapp\obj\Debug\socialermapfacebookapp.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\socialermap\socialermapfbapp\bin\socialermapfacebookapp.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\socialermap\socialermapfbapp\bin\socialermapfacebookapp.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\socialermap\socialermapfbapp\bin\SocialerMapLib.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\socialermap\socialermapfbapp\bin\SocialerMapLib.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\socialermap\socialermapfbapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\socialermap\socialermapfbapp\obj\Debug\socialermapfacebookapp.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialerMap\socialermap\socialermapfbapp\obj\Debug\socialermapfacebookapp.pdb
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\socialermap\socialermapfbapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\socialermap\socialermapfbapp\obj\Debug\socialermapfacebookapp.dll
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\socialermap\socialermapfbapp\bin\socialermapfacebookapp.dll
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\socialermap\socialermapfbapp\bin\socialermapfacebookapp.pdb
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\socialermap\socialermapfbapp\bin\SocialerMapLib.dll
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\socialermap\socialermapfbapp\bin\SocialerMapLib.pdb
+C:\Users\otarazan\Dropbox\socialerMap\socialerMap\socialermap\socialermapfbapp\obj\Debug\socialermapfacebookapp.pdb

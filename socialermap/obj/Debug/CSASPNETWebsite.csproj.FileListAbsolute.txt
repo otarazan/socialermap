@@ -1,0 +1,9 @@
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermap\CSASPNETWebsite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermap\CSASPNETWebsite\bin\CSASPNETWebsite.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermap\CSASPNETWebsite\bin\CSASPNETWebsite.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermap\CSASPNETWebsite\bin\Microsoft.Contracts.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermap\CSASPNETWebsite\bin\Newtonsoft.Json.Net35.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermap\CSASPNETWebsite\bin\Newtonsoft.Json.Net35.pdb
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermap\CSASPNETWebsite\bin\Newtonsoft.Json.Net35.xml
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermap\CSASPNETWebsite\obj\Debug\CSASPNETWebsite.dll
+C:\Users\otarazan\Documents\Visual Studio 2010\Projects\socialermap\CSASPNETWebsite\obj\Debug\CSASPNETWebsite.pdb

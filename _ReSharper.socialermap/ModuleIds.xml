@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1" ModuleId="SocialerMapLib" />
+  <Module PersistentId="63F10DA6-F237-49D6-BA0E-DBA1574FDB81" ModuleId="socialermapfbapp" />
+  <Module PersistentId="D85ED5F8-6FC9-4D36-B37D-8962F0A76B07" ModuleId="socialermap" />
+</Modules>

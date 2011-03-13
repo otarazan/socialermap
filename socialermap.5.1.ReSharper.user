@@ -1,0 +1,81 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/d:Properties/f:AssemblyInfo.cs" caret="538" fromTop="11" />
+      <File id="D85ED5F8-6FC9-4D36-B37D-8962F0A76B07/d:Css/f:socialer.css" caret="2269" fromTop="29" />
+      <File id="63F10DA6-F237-49D6-BA0E-DBA1574FDB81/d:Css/f:socialer.css" caret="281" fromTop="13" />
+      <File id="63F10DA6-F237-49D6-BA0E-DBA1574FDB81/d:App_LocalResources/f:Default.aspx.resx" caret="6703" fromTop="8" />
+      <File id="D85ED5F8-6FC9-4D36-B37D-8962F0A76B07/d:Js/f:jquery-ui.js" caret="46987" fromTop="15" />
+      <File id="63F10DA6-F237-49D6-BA0E-DBA1574FDB81/f:Default.aspx" caret="3991" fromTop="11" />
+      <File id="D85ED5F8-6FC9-4D36-B37D-8962F0A76B07/f:Default.aspx" caret="4113" fromTop="26" />
+      <File id="D85ED5F8-6FC9-4D36-B37D-8962F0A76B07/f:Web_host.config" caret="634" fromTop="11" />
+      <File id="D85ED5F8-6FC9-4D36-B37D-8962F0A76B07/f:Web.config" caret="550" fromTop="10" />
+      <File id="63F10DA6-F237-49D6-BA0E-DBA1574FDB81/d:App_Code/f:FacebookLayer.cs" caret="2645" fromTop="16" />
+      <File id="D85ED5F8-6FC9-4D36-B37D-8962F0A76B07/d:App_Code/f:FacebookLayer.cs" caret="2892" fromTop="20" />
+      <File id="63F10DA6-F237-49D6-BA0E-DBA1574FDB81/f:Default.aspx.cs" caret="3786" fromTop="3" />
+      <File id="D85ED5F8-6FC9-4D36-B37D-8962F0A76B07/f:Default.aspx.cs" caret="6253" fromTop="30" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookUser.cs" caret="0" fromTop="0" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:SocialerMapDbObject.cs" caret="1652" fromTop="25" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:EventType.cs" caret="443" fromTop="14" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:SocialerMap.cs" caret="1188" fromTop="0" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:Database.cs" caret="4478" fromTop="13" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="4252" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:Database.cs" caret="2155" fromTop="16" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:Database.cs" caret="2047" fromTop="12" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:Database.cs" caret="2258" fromTop="22" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:Database.cs" caret="3049" fromTop="9" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:Database.cs" caret="3824" fromTop="18" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:Database.cs" caret="4677" fromTop="19" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:Database.cs" caret="7382" fromTop="24" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:SocialerMapDbObject.cs" caret="445" fromTop="12" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:SocialerMapDbObject.cs" caret="318" fromTop="8" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:SocialerMapDbObject.cs" caret="1816" fromTop="15" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:SocialerMapDbObject.cs" caret="1652" fromTop="25" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:EventType.cs" caret="622" fromTop="14" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:EventType.cs" caret="279" fromTop="6" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="643" fromTop="19" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:SocialerMap.cs" caret="2425" fromTop="12" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:SocialerMap.cs" caret="1652" fromTop="15" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="4532" fromTop="19" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:SocialerMap.cs" caret="534" fromTop="5" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:SocialerMap.cs" caret="1188" fromTop="14" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="6713" fromTop="17" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:Database.cs" caret="7894" fromTop="13" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:Database.cs" caret="4478" fromTop="13" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="949" fromTop="15" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="760" fromTop="9" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="5584" fromTop="13" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="1112" fromTop="15" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="3749" fromTop="15" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="367" fromTop="9" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="5907" fromTop="15" />
+      <File id="D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1/f:FacebookData.cs" caret="1846" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="0" />
+      <Item value="Trim`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\socialermapfbapp" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="localhost" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="images/footer.jpg" publishTime="02/12/2011 10:12:35" />
+    <file relUrl="Images/logo.png" publishTime="03/04/2011 23:32:47" />
+    <file relUrl="CSS/socialer.css" publishTime="03/04/2011 23:39:23" />
+    <file relUrl="App_LocalResources/Default.aspx.resx" publishTime="02/27/2011 22:24:22" />
+    <file relUrl="Web_host.config" publishTime="03/04/2011 23:46:06" />
+    <file relUrl="Web.config" publishTime="03/04/2011 23:46:16" />
+    <file relUrl="images/infobox_left.gif" publishTime="02/12/2011 10:12:35" />
+    <file relUrl="Resources/Button/bg_button_a.gif" publishTime="02/15/2011 00:26:26" />
+    <file relUrl="Resources/Button/bg_button_span.gif" publishTime="02/15/2011 00:26:26" />
+    <file relUrl="JS/jquery-ui.js" publishTime="02/15/2011 00:38:55" />
+    <file relUrl="images/infobox_above.gif" publishTime="02/12/2011 10:12:35" />
+    <file relUrl="bin/SocialerMapLib.dll" publishTime="03/05/2011 00:31:59" />
+    <file relUrl="Images/Button/bg_button_span.gif" publishTime="02/15/2011 00:23:52" />
+    <file relUrl="JS/jquery-ui-timepicker-addon.js" publishTime="02/12/2011 10:12:35" />
+    <file relUrl="App_LocalResources/Default.aspx.ru.resx" publishTime="02/27/2011 22:24:22" />
+    <file relUrl="Resources/logo.png" publishTime="03/04/2011 23:32:47" />
+    <file relUrl="images/infobox_below.gif" publishTime="02/12/2011 10:12:35" />
+    <file relUrl="images/Stop.png" publishTime="02/12/2011 10:12:35" />
+    <file relUrl="bin/Facebook.Web.Mvc.dll" publishTime="02/11/2011 20:02:26" />
+    <file relUrl="Resources/icon.ico" publishTime="02/15/2011 00:25:28" />
+    <file relUrl="Default.aspx" publishTime="02/27/2011 22:28:46" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="02/11/2011 20:02:26" />
+    <file relUrl="JS/socialer.js" publishTime="03/04/2011 23:19:35" />
+    <file relUrl="Images/icon.ico" publishTime="02/15/2011 00:25:28" />
+    <file relUrl="Js/jquery.js" publishTime="02/15/2011 00:35:12" />
+    <file relUrl="Js/googleanalitics.js" publishTime="02/27/2011 18:30:22" />
+    <file relUrl="images/closebigger.gif" publishTime="02/12/2011 10:12:35" />
+    <file relUrl="Images/Button/bg_button_a.gif" publishTime="02/15/2011 00:23:52" />
+    <file relUrl="bin/socialermapfacebookapp.pdb" publishTime="03/05/2011 00:32:00" />
+    <file relUrl="JS/location.js" publishTime="03/05/2011 00:30:40" />
+    <file relUrl="bin/Facebook.Web.dll" publishTime="02/11/2011 20:02:26" />
+    <file relUrl="App_LocalResources/Default.aspx.tr.resx" publishTime="02/27/2011 22:24:22" />
+    <file relUrl="bin/socialermapfacebookapp.dll" publishTime="03/05/2011 00:32:00" />
+    <file relUrl="bin/Facebook.Web.Mvc2.dll" publishTime="02/11/2011 20:02:26" />
+    <file relUrl="bin/SocialerMapLib.pdb" publishTime="03/05/2011 00:31:59" />
+    <file relUrl="images/infobox_right.gif" publishTime="02/12/2011 10:12:35" />
+    <file relUrl="bin/Facebook.dll" publishTime="02/11/2011 20:02:26" />
+  </publishProfile>
+</publishData>

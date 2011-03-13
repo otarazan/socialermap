@@ -1,0 +1,131 @@
+﻿html {
+	height:100%;
+	background-color:#B7B7BB;
+}
+
+body {
+	height:99%;
+	width: 99%;
+    margin: auto auto 0px auto;
+    background-color:#FFFFFF;
+    border: 1px solid #496077;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#000000;
+	font-size:15px;
+	font-weight: bold; 
+}
+
+#map_canvas {
+	height:85%;
+}
+
+#statistics
+{
+    font-size:8px;
+}
+
+.ui-autocomplete {
+	background-color:#FFF;
+	width:300px;
+	border:1px solid #cfcfcf;
+	list-style-type:none;
+	padding-left:0;
+}
+
+img {
+	height:100px;
+	width:200px;
+}
+
+.icon {
+	height:30px;
+	width:30px;
+}
+
+.clear {
+	overflow:hidden;
+	width:100%;
+}
+
+a.button {
+background:transparent url('../Resources/Button/bg_button_a.gif') no-repeat scroll top right;
+color:#444;
+display:block;
+float:right;
+font:normal 12px arial, sans-serif;
+height:24px;
+margin-right:6px;
+padding-right:18px;
+text-decoration:none;
+}
+
+a.button span {
+background:transparent url('../Resources/Button/bg_button_span.gif') no-repeat;
+display:block;
+line-height:14px;
+padding:5px 0 5px 18px;
+}
+
+a.button:active {
+background-position:bottom right;
+color:#000;
+outline:none;
+}
+
+a.button:active span {
+background-position:bottom left;
+padding:6px 0 4px 18px;
+}
+
+
+#info input,textarea,select {
+float:left;
+width:100px;
+background:#C2C3A4;
+color:#FFF;
+border:1px solid #2e6b44;
+margin-bottom:5px;
+padding:2px;
+}
+
+#footer
+{
+    text-align:center;
+}
+
+
+#rounded-table {
+border-collapse:collapse;
+font:normal 8px arial, sans-serif;
+}
+
+#rounded-table thead th.rounded-headerLeft {
+background:#b9c9fe url("../Resources/Table/left.png") left -1px no-repeat;
+}
+
+#rounded-table thead th.rounded-headerRight {
+background:#b9c9fe url("../Resources/Table/right.png") right -1px no-repeat;
+}
+
+#rounded-table th {
+color:#039;
+background:#b9c9fe;
+}
+
+#rounded-table td {
+background:#e8edff;
+border-top:1px solid #fff;
+color:#669;
+}
+
+#rounded-table tfoot td.rounded-foot-left {
+background:#e8edff url("../Resources/Table/botleft.png") left bottom no-repeat;
+}
+
+#rounded-table tfoot td.rounded-foot-right {
+background:#e8edff url("../Resources/Table/botright.png") right bottom no-repeat;
+}
+
+#rounded-corner tbody tr:hover td {
+background:#d0dafd;
+}

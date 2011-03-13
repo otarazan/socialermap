@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socialermap", "socialermap\socialermap.csproj", "{D85ED5F8-6FC9-4D36-B37D-8962F0A76B07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialerMapLib", "SocialerMapLib\SocialerMapLib.csproj", "{D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socialermapfbapp", "socialermap\socialermapfbapp\socialermapfbapp.csproj", "{63F10DA6-F237-49D6-BA0E-DBA1574FDB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85ED5F8-6FC9-4D36-B37D-8962F0A76B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85ED5F8-6FC9-4D36-B37D-8962F0A76B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85ED5F8-6FC9-4D36-B37D-8962F0A76B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85ED5F8-6FC9-4D36-B37D-8962F0A76B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FFEECE-DE4C-44F3-9DDE-6755EEF2E9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F10DA6-F237-49D6-BA0E-DBA1574FDB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F10DA6-F237-49D6-BA0E-DBA1574FDB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F10DA6-F237-49D6-BA0E-DBA1574FDB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F10DA6-F237-49D6-BA0E-DBA1574FDB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NDepend) = preSolution
+		Project = ".\socialermap.ndproj"
+	EndGlobalSection
+EndGlobal
